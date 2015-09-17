@@ -2,6 +2,6 @@
   "cowlib": {:hex, :cowlib, "1.0.1"},
   "exos": {:hex, :exos, "1.0.0"},
   "plug": {:hex, :plug, "1.0.0"},
-  "poison": {:hex, :poison, "1.4.0"},
+  "poison": {:hex, :poison, "1.5.0"},
   "poolboy": {:hex, :poolboy, "1.4.2"},
   "ranch": {:hex, :ranch, "1.1.0"}}

@@ -26,7 +26,7 @@ defmodule Reaxt.Mixfile do
      {:poolboy, []},
      {:cowboy,"~> 1.0.0"},
      {:plug,"~> 1.0"},
-     {:poison,"~> 1.4.0"}]
+     {:poison,"~> 1.5.0"}]
   end
 
   defp package do
